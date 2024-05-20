@@ -7,6 +7,7 @@ This repository contains structured data for the Reading App for Kids. It suppor
 - `locales/`: Contains subdirectories for each locale.
   - `en/lessons/`: Contains lesson files for English.
   - `es/lessons/`: Contains lesson files for Spanish.
+  - `fr/lessons/`: Contains lesson files for French.
 
 ## Adding a New Lesson
 
@@ -17,6 +18,7 @@ This repository contains structured data for the Reading App for Kids. It suppor
 
 - `en`: English
 - `es`: Spanish
+- `fr`: French
 
 ## Example Lesson File Structure
 
