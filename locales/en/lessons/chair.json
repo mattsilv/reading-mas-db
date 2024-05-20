@@ -3,69 +3,128 @@
     "words": [
       {
         "letter": "C",
+        "word": "cat",
+        "definition": "A small furry pet that meow"
+      },
+      {
+        "letter": "C",
         "word": "car",
-        "definition": "A vehicle with four wheels"
+        "definition": "A vehicle with four wheel"
       },
       {
         "letter": "C",
-        "word": "arc",
-        "definition": "A curved shape"
-      },
-      {
-        "letter": "C",
-        "word": "air",
-        "definition": "The invisible gas we breathe"
+        "word": "cup",
+        "definition": "A small container used for drinking"
       },
       {
         "letter": "H",
-        "word": "hair",
-        "definition": "Strands that grow on your head"
+        "word": "hat",
+        "definition": "A piece of clothing worn on the head"
       },
       {
         "letter": "H",
-        "word": "arch",
-        "definition": "A curved structure"
+        "word": "hand",
+        "definition": "The part of the body at the end of the arm"
+      },
+      {
+        "letter": "H",
+        "word": "hug",
+        "definition": "To hold someone tightly in the arm"
       },
       {
         "letter": "A",
-        "word": "arc",
-        "definition": "A curved shape"
+        "word": "ant",
+        "definition": "A small insect that live in colony"
       },
       {
         "letter": "A",
-        "word": "air",
-        "definition": "The invisible gas we breathe"
+        "word": "apple",
+        "definition": "A round fruit that is usually red or green"
       },
       {
         "letter": "A",
-        "word": "chair",
-        "definition": "A seat with four legs"
+        "word": "art",
+        "definition": "Something made with skill and creativity"
       },
       {
         "letter": "I",
-        "word": "air",
-        "definition": "The invisible gas we breathe"
+        "word": "ink",
+        "definition": "A colored liquid used for writing or drawing"
+      },
+      {
+        "letter": "I",
+        "word": "igloo",
+        "definition": "A round house made of snow or ice"
+      },
+      {
+        "letter": "I",
+        "word": "ill",
+        "definition": "Not feeling well or healthy"
       },
       {
         "letter": "R",
-        "word": "arc",
-        "definition": "A curved shape"
+        "word": "run",
+        "definition": "To move quickly on foot"
       },
       {
         "letter": "R",
-        "word": "char",
-        "definition": "To burn the surface of something"
+        "word": "red",
+        "definition": "The color of a stop sign or apple"
       },
       {
         "letter": "R",
-        "word": "rich",
-        "definition": "Having a lot of money"
+        "word": "rug",
+        "definition": "A piece of thick fabric used to cover a floor"
+      },
+      {
+        "letter": "C",
+        "word": "cow",
+        "definition": "A large animal that give milk"
+      },
+      {
+        "letter": "H",
+        "word": "hop",
+        "definition": "To jump on one foot"
+      },
+      {
+        "letter": "A",
+        "word": "ask",
+        "definition": "To say something to get an answer or help"
+      },
+      {
+        "letter": "I",
+        "word": "inch",
+        "definition": "A small unit of length"
       },
       {
         "letter": "R",
-        "word": "hair",
-        "definition": "Strands that grow on your head"
+        "word": "rock",
+        "definition": "A hard solid piece of the earth"
+      },
+      {
+        "letter": "R",
+        "word": "rain",
+        "definition": "Water that fall from the sky"
+      },
+      {
+        "letter": "C",
+        "word": "cake",
+        "definition": "A sweet baked food made from flour, sugar, and egg"
+      },
+      {
+        "letter": "H",
+        "word": "heart",
+        "definition": "The organ that pump blood in the body"
+      },
+      {
+        "letter": "A",
+        "word": "act",
+        "definition": "To do something"
+      },
+      {
+        "letter": "I",
+        "word": "ice",
+        "definition": "Frozen water"
       }
     ]
   }
-  
