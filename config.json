@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "es", "fr"],
+    "lessons": {
+      "en": ["stamp"],
+      "es": ["campos"],
+      "fr": ["jardin"]
+    }
+  }
+  
