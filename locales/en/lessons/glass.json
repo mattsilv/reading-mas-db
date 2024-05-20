@@ -17,12 +17,10 @@
           "definition": "An animal that eats grass"
         },
         {
-          "letter": "G",
           "word": "game",
           "definition": "An activity played for fun"
         },
         {
-          "letter": "G",
           "word": "gift",
           "definition": "Something given to someone"
         }
@@ -44,12 +42,10 @@
           "definition": "A thick piece of wood"
         },
         {
-          "letter": "L",
           "word": "leg",
           "definition": "The part of the body used for standing and walking"
         },
         {
-          "letter": "L",
           "word": "leaf",
           "definition": "The flat green part of a plant"
         }
@@ -59,27 +55,22 @@
       "letter": "A",
       "words": [
         {
-          "letter": "A",
           "word": "ant",
           "definition": "A small insect that lives in groups"
         },
         {
-          "letter": "A",
           "word": "apple",
           "definition": "A round fruit that is usually red or green"
         },
         {
-          "letter": "A",
           "word": "art",
           "definition": "Something made with skill and creativity"
         },
         {
-          "letter": "A",
           "word": "act",
           "definition": "To do something"
         },
         {
-          "letter": "A",
           "word": "arm",
           "definition": "The part of the body from the shoulder to the hand"
         }
@@ -89,22 +80,18 @@
       "letter": "S",
       "words": [
         {
-          "letter": "S",
           "word": "sun",
           "definition": "The bright star that gives light and heat"
         },
         {
-          "letter": "S",
           "word": "star",
           "definition": "A bright object in the night sky"
         },
         {
-          "letter": "S",
           "word": "sing",
           "definition": "To make musical sounds with the voice"
         },
         {
-          "letter": "S",
           "word": "glass",
           "definition": "A hard, transparent material"
         }
@@ -114,17 +101,14 @@
       "letter": "S",
       "words": [
         {
-          "letter": "S",
           "word": "smile",
           "definition": "To show happiness with the mouth"
         },
         {
-          "letter": "S",
           "word": "sand",
           "definition": "Tiny grains of rock found on beaches and deserts"
         },
         {
-          "letter": "S",
           "word": "sock",
           "definition": "A piece of clothing worn on the foot"
         }
