@@ -1,106 +1,103 @@
 {
-    "lesson": "JARDIN",
-    "words": [
-      {
-        "letter": "J",
-        "word": "jad",
-        "definition": "Jadis, autrefois"
-      },
-      {
-        "letter": "J",
-        "word": "jar",
-        "definition": "Grand récipient en terre cuite"
-      },
-      {
-        "letter": "J",
-        "word": "rad",
-        "definition": "Abréviation de radical"
-      },
-      {
-        "letter": "J",
-        "word": "jardin",
-        "definition": "Terrain où l'on cultive des plantes"
-      },
-      {
-        "letter": "A",
-        "word": "ad",
-        "definition": "Abréviation de annonce"
-      },
-      {
-        "letter": "A",
-        "word": "an",
-        "definition": "Période de douze mois"
-      },
-      {
-        "letter": "A",
-        "word": "ar",
-        "definition": "Unité monétaire de Madagascar"
-      },
-      {
-        "letter": "A",
-        "word": "ni",
-        "definition": "Conjonction de coordination négative"
-      },
-      {
-        "letter": "A",
-        "word": "nid",
-        "definition": "Construction faite par les oiseaux pour pondre leurs œufs"
-      },
-      {
-        "letter": "R",
-        "word": "raj",
-        "definition": "Ancien régime colonial en Inde"
-      },
-      {
-        "letter": "R",
-        "word": "rid",
-        "definition": "Se débarrasser de"
-      },
-      {
-        "letter": "D",
-        "word": "da",
-        "definition": "Papa, en italien"
-      },
-      {
-        "letter": "D",
-        "word": "rad",
-        "definition": "Abréviation de radical"
-      },
-      {
-        "letter": "D",
-        "word": "drai",
-        "definition": "Courant d'eau temporaire"
-      },
-      {
-        "letter": "I",
-        "word": "in",
-        "definition": "Très à la mode"
-      },
-      {
-        "letter": "I",
-        "word": "ir",
-        "definition": "Particule indiquant la négation"
-      },
-      {
-        "letter": "I",
-        "word": "raid",
-        "definition": "Opération militaire"
-      },
-      {
-        "letter": "N",
-        "word": "ni",
-        "definition": "Conjonction de coordination négative"
-      },
-      {
-        "letter": "N",
-        "word": "nid",
-        "definition": "Construction faite par les oiseaux pour pondre leurs œufs"
-      },
-      {
-        "letter": "N",
-        "word": "rad",
-        "definition": "Abréviation de radical"
-      }
-    ]
-  }
-  
+  "lesson": "JARDIN",
+  "letters": [
+    {
+      "letter": "J",
+      "words": [
+        {
+          "word": "jad",
+          "definition": "Jadis, autrefois"
+        },
+        {
+          "word": "jar",
+          "definition": "Grand récipient en terre cuite"
+        },
+        {
+          "word": "jardin",
+          "definition": "Terrain où l'on cultive des plantes"
+        }
+      ]
+    },
+    {
+      "letter": "A",
+      "words": [
+        {
+          "letter": "A",
+          "word": "ad",
+          "definition": "Abréviation de annonce"
+        },
+        {
+          "letter": "A",
+          "word": "an",
+          "definition": "Période de douze mois"
+        },
+        {
+          "letter": "A",
+          "word": "ar",
+          "definition": "Unité monétaire de Madagascar"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "words": [
+        {
+          "word": "raj",
+          "definition": "Ancien régime colonial en Inde"
+        },
+        {
+          "letter": "R",
+          "word": "rid",
+          "definition": "Se débarrasser de"
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "words": [
+        {
+          "word": "da",
+          "definition": "Papa, en italien"
+        },
+        {
+          "word": "rad",
+          "definition": "Abréviation de radical"
+        },
+        {
+          "word": "drai",
+          "definition": "Courant d'eau temporaire"
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "words": [
+        {
+          "word": "in",
+          "definition": "Très à la mode"
+        },
+        {
+          "word": "ir",
+          "definition": "Particule indiquant la négation"
+        },
+        {
+          "word": "raid",
+          "definition": "Opération militaire"
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "words": [
+        {
+          "word": "ni",
+          "definition": "Conjonction de coordination négative"
+        },
+        {
+          "word": "nid",
+          "definition": "Construction faite par les oiseaux pour pondre leurs œufs"
+        }
+      ]
+    }
+  ]
+}
