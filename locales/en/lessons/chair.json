@@ -1,130 +1,132 @@
 {
-    "lesson": "CHAIR",
-    "words": [
-      {
-        "letter": "C",
-        "word": "cat",
-        "definition": "A small furry pet that meow"
-      },
-      {
-        "letter": "C",
-        "word": "car",
-        "definition": "A vehicle with four wheel"
-      },
-      {
-        "letter": "C",
-        "word": "cup",
-        "definition": "A small container used for drinking"
-      },
-      {
-        "letter": "H",
-        "word": "hat",
-        "definition": "A piece of clothing worn on the head"
-      },
-      {
-        "letter": "H",
-        "word": "hand",
-        "definition": "The part of the body at the end of the arm"
-      },
-      {
-        "letter": "H",
-        "word": "hug",
-        "definition": "To hold someone tightly in the arm"
-      },
-      {
-        "letter": "A",
-        "word": "ant",
-        "definition": "A small insect that live in colony"
-      },
-      {
-        "letter": "A",
-        "word": "apple",
-        "definition": "A round fruit that is usually red or green"
-      },
-      {
-        "letter": "A",
-        "word": "art",
-        "definition": "Something made with skill and creativity"
-      },
-      {
-        "letter": "I",
-        "word": "ink",
-        "definition": "A colored liquid used for writing or drawing"
-      },
-      {
-        "letter": "I",
-        "word": "igloo",
-        "definition": "A round house made of snow or ice"
-      },
-      {
-        "letter": "I",
-        "word": "ill",
-        "definition": "Not feeling well or healthy"
-      },
-      {
-        "letter": "R",
-        "word": "run",
-        "definition": "To move quickly on foot"
-      },
-      {
-        "letter": "R",
-        "word": "red",
-        "definition": "The color of a stop sign or apple"
-      },
-      {
-        "letter": "R",
-        "word": "rug",
-        "definition": "A piece of thick fabric used to cover a floor"
-      },
-      {
-        "letter": "C",
-        "word": "cow",
-        "definition": "A large animal that give milk"
-      },
-      {
-        "letter": "H",
-        "word": "hop",
-        "definition": "To jump on one foot"
-      },
-      {
-        "letter": "A",
-        "word": "ask",
-        "definition": "To say something to get an answer or help"
-      },
-      {
-        "letter": "I",
-        "word": "inch",
-        "definition": "A small unit of length"
-      },
-      {
-        "letter": "R",
-        "word": "rock",
-        "definition": "A hard solid piece of the earth"
-      },
-      {
-        "letter": "R",
-        "word": "rain",
-        "definition": "Water that fall from the sky"
-      },
-      {
-        "letter": "C",
-        "word": "cake",
-        "definition": "A sweet baked food made from flour, sugar, and egg"
-      },
-      {
-        "letter": "H",
-        "word": "heart",
-        "definition": "The organ that pump blood in the body"
-      },
-      {
-        "letter": "A",
-        "word": "act",
-        "definition": "To do something"
-      },
-      {
-        "letter": "I",
-        "word": "ice",
-        "definition": "Frozen water"
-      }
-    ]
-  }
+  "lesson": "CHAIR",
+  "letters": [
+    {
+      "letter": "C",
+      "words": [
+        {
+          "word": "cat",
+          "definition": "A small furry pet that meow"
+        },
+        {
+          "word": "car",
+          "definition": "A vehicle with four wheel"
+        },
+        {
+          "word": "cup",
+          "definition": "A small container used for drinking"
+        },
+        {
+          "word": "cow",
+          "definition": "A large animal that give milk"
+        },
+        {
+          "letter": "C",
+          "word": "cake",
+          "definition": "A sweet baked food made from flour, sugar, and egg"
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "words": [
+        {
+          "word": "hat",
+          "definition": "A piece of clothing worn on the head"
+        },
+        {
+          "word": "hand",
+          "definition": "The part of the body at the end of the arm"
+        },
+        {
+          "word": "hug",
+          "definition": "To hold someone tightly in the arm"
+        },
+        {
+          "word": "hop",
+          "definition": "To jump on one foot"
+        },
+        {
+          "word": "heart",
+          "definition": "The organ that pump blood in the body"
+        }
+      ]
+    },
+    {
+      "letter": "A",
+      "words": [
+        {
+          "word": "ant",
+          "definition": "A small insect that live in colony"
+        },
+        {
+          "word": "apple",
+          "definition": "A round fruit that is usually red or green"
+        },
+        {
+          "word": "art",
+          "definition": "Something made with skill and creativity"
+        },
+        {
+          "word": "ask",
+          "definition": "To say something to get an answer or help"
+        },
+        {
+          "letter": "A",
+          "word": "act",
+          "definition": "To do something"
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "words": [
+        {
+          "word": "ink",
+          "definition": "A colored liquid used for writing or drawing"
+        },
+        {
+          "word": "igloo",
+          "definition": "A round house made of snow or ice"
+        },
+        {
+          "word": "ill",
+          "definition": "Not feeling well or healthy"
+        },
+        {
+          "word": "inch",
+          "definition": "A small unit of length"
+        },
+        {
+          "word": "ice",
+          "definition": "Frozen water"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "words": [
+        {
+          "word": "run",
+          "definition": "To move quickly on foot"
+        },
+        {
+          "word": "red",
+          "definition": "The color of a stop sign or apple"
+        },
+        {
+          "word": "rug",
+          "definition": "A piece of thick fabric used to cover a floor"
+        },
+        {
+          "word": "rock",
+          "definition": "A hard solid piece of the earth"
+        },
+        {
+          "word": "rain",
+          "definition": "Water that fall from the sky"
+        }
+      ]
+    }
+  ]
+}
