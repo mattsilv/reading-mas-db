@@ -1,130 +1,130 @@
 {
-    "lesson": "TRAIN",
-    "words": [
-      {
-        "letter": "T",
-        "word": "tap",
-        "definition": "To touch lightly"
-      },
-      {
-        "letter": "T",
-        "word": "toe",
-        "definition": "One of the five digit on a foot"
-      },
-      {
-        "letter": "T",
-        "word": "toy",
-        "definition": "An object used for play"
-      },
-      {
-        "letter": "R",
-        "word": "run",
-        "definition": "To move quickly on foot"
-      },
-      {
-        "letter": "R",
-        "word": "red",
-        "definition": "The color of a stop sign or apple"
-      },
-      {
-        "letter": "R",
-        "word": "rug",
-        "definition": "A piece of thick fabric used to cover a floor"
-      },
-      {
-        "letter": "A",
-        "word": "art",
-        "definition": "Something made with skill and creativity"
-      },
-      {
-        "letter": "A",
-        "word": "ant",
-        "definition": "A small insect that live in colony"
-      },
-      {
-        "letter": "A",
-        "word": "apple",
-        "definition": "A round fruit that is usually red or green"
-      },
-      {
-        "letter": "I",
-        "word": "ink",
-        "definition": "A colored liquid used for writing or drawing"
-      },
-      {
-        "letter": "I",
-        "word": "igloo",
-        "definition": "A round house made of snow or ice"
-      },
-      {
-        "letter": "I",
-        "word": "ill",
-        "definition": "Not feeling well or healthy"
-      },
-      {
-        "letter": "N",
-        "word": "net",
-        "definition": "A device made of string or rope with hole"
-      },
-      {
-        "letter": "N",
-        "word": "nut",
-        "definition": "A small dry fruit with a hard shell"
-      },
-      {
-        "letter": "N",
-        "word": "nose",
-        "definition": "The part of the face used for smelling"
-      },
-      {
-        "letter": "T",
-        "word": "tree",
-        "definition": "A tall plant with a trunk and branch"
-      },
-      {
-        "letter": "R",
-        "word": "rock",
-        "definition": "A hard solid piece of the earth"
-      },
-      {
-        "letter": "A",
-        "word": "act",
-        "definition": "To do something"
-      },
-      {
-        "letter": "I",
-        "word": "inch",
-        "definition": "A small unit of length"
-      },
-      {
-        "letter": "N",
-        "word": "nail",
-        "definition": "A small metal spike used for joining wood"
-      },
-      {
-        "letter": "T",
-        "word": "talk",
-        "definition": "To speak or have a conversation"
-      },
-      {
-        "letter": "R",
-        "word": "rain",
-        "definition": "Water that fall from the sky"
-      },
-      {
-        "letter": "A",
-        "word": "ask",
-        "definition": "To say something to get an answer or help"
-      },
-      {
-        "letter": "I",
-        "word": "ice",
-        "definition": "Frozen water"
-      },
-      {
-        "letter": "N",
-        "word": "nest",
-        "definition": "A home built by bird or insect"
-      }
-    ]
-  }
+  "lesson": "TRAIN",
+  "letters": [
+    {
+      "letter": "T",
+      "words": [
+        {
+          "word": "tap",
+          "definition": "To touch lightly"
+        },
+        {
+          "word": "toe",
+          "definition": "One of the five digit on a foot"
+        },
+        {
+          "word": "toy",
+          "definition": "An object used for play"
+        },
+        {
+          "word": "tree",
+          "definition": "A tall plant with a trunk and branch"
+        },
+        {
+          "word": "talk",
+          "definition": "To speak or have a conversation"
+        }
+      ]
+    },
+    {
+      "letter": "R",
+      "words": [
+        {
+          "word": "run",
+          "definition": "To move quickly on foot"
+        },
+        {
+          "word": "red",
+          "definition": "The color of a stop sign or apple"
+        },
+        {
+          "word": "rug",
+          "definition": "A piece of thick fabric used to cover a floor"
+        },
+        {
+          "word": "rock",
+          "definition": "A hard solid piece of the earth"
+        },
+        {
+          "word": "rain",
+          "definition": "Water that fall from the sky"
+        }
+      ]
+    },
+    {
+      "letter": "A",
+      "words": [
+        {
+          "word": "art",
+          "definition": "Something made with skill and creativity"
+        },
+        {
+          "word": "ant",
+          "definition": "A small insect that live in colony"
+        },
+        {
+          "word": "apple",
+          "definition": "A round fruit that is usually red or green"
+        },
+        {
+          "word": "act",
+          "definition": "To do something"
+        },
+        {
+          "word": "ask",
+          "definition": "To say something to get an answer or help"
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "words": [
+        {
+          "word": "ink",
+          "definition": "A colored liquid used for writing or drawing"
+        },
+        {
+          "word": "igloo",
+          "definition": "A round house made of snow or ice"
+        },
+        {
+          "word": "ill",
+          "definition": "Not feeling well or healthy"
+        },
+        {
+          "word": "inch",
+          "definition": "A small unit of length"
+        },
+        {
+          "word": "ice",
+          "definition": "Frozen water"
+        }
+      ]
+    },
+    {
+      "letter": "N",
+      "words": [
+        {
+          "word": "net",
+          "definition": "A device made of string or rope with hole"
+        },
+        {
+          "word": "nut",
+          "definition": "A small dry fruit with a hard shell"
+        },
+        {
+          "word": "nose",
+          "definition": "The part of the face used for smelling"
+        },
+        {
+          "word": "nail",
+          "definition": "A small metal spike used for joining wood"
+        },
+        {
+          "word": "nest",
+          "definition": "A home built by bird or insect"
+        }
+      ]
+    }
+  ]
+}
