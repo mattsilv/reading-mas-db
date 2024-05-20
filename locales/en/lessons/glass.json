@@ -1,116 +1,134 @@
 {
-    "lesson": "GLASS",
-    "words": [
-      {
-        "letter": "G",
-        "word": "gas",
-        "definition": "A state of matter like air"
-      },
-      {
-        "letter": "G",
-        "word": "girl",
-        "definition": "A female child"
-      },
-      {
-        "letter": "G",
-        "word": "goat",
-        "definition": "An animal that eats grass"
-      },
-      {
-        "letter": "L",
-        "word": "lap",
-        "definition": "The top part of the leg when sitting"
-      },
-      {
-        "letter": "L",
-        "word": "lion",
-        "definition": "A large wild cat"
-      },
-      {
-        "letter": "L",
-        "word": "log",
-        "definition": "A thick piece of wood"
-      },
-      {
-        "letter": "A",
-        "word": "ant",
-        "definition": "A small insect that lives in groups"
-      },
-      {
-        "letter": "A",
-        "word": "apple",
-        "definition": "A round fruit that is usually red or green"
-      },
-      {
-        "letter": "A",
-        "word": "art",
-        "definition": "Something made with skill and creativity"
-      },
-      {
-        "letter": "S",
-        "word": "sun",
-        "definition": "The bright star that gives light and heat"
-      },
-      {
-        "letter": "S",
-        "word": "star",
-        "definition": "A bright object in the night sky"
-      },
-      {
-        "letter": "S",
-        "word": "sing",
-        "definition": "To make musical sounds with the voice"
-      },
-      {
-        "letter": "S",
-        "word": "glass",
-        "definition": "A hard, transparent material"
-      },
-      {
-        "letter": "S",
-        "word": "smile",
-        "definition": "To show happiness with the mouth"
-      },
-      {
-        "letter": "S",
-        "word": "sand",
-        "definition": "Tiny grains of rock found on beaches and deserts"
-      },
-      {
-        "letter": "S",
-        "word": "sock",
-        "definition": "A piece of clothing worn on the foot"
-      },
-      {
-        "letter": "A",
-        "word": "act",
-        "definition": "To do something"
-      },
-      {
-        "letter": "A",
-        "word": "arm",
-        "definition": "The part of the body from the shoulder to the hand"
-      },
-      {
-        "letter": "L",
-        "word": "leg",
-        "definition": "The part of the body used for standing and walking"
-      },
-      {
-        "letter": "L",
-        "word": "leaf",
-        "definition": "The flat green part of a plant"
-      },
-      {
-        "letter": "G",
-        "word": "game",
-        "definition": "An activity played for fun"
-      },
-      {
-        "letter": "G",
-        "word": "gift",
-        "definition": "Something given to someone"
-      }
-    ]
-  }
-  
+  "lesson": "GLASS",
+  "letters": [
+    {
+      "letter": "G",
+      "words": [
+        {
+          "word": "gas",
+          "definition": "A state of matter like air"
+        },
+        {
+          "word": "girl",
+          "definition": "A female child"
+        },
+        {
+          "word": "goat",
+          "definition": "An animal that eats grass"
+        },
+        {
+          "letter": "G",
+          "word": "game",
+          "definition": "An activity played for fun"
+        },
+        {
+          "letter": "G",
+          "word": "gift",
+          "definition": "Something given to someone"
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "words": [
+        {
+          "word": "lap",
+          "definition": "The top part of the leg when sitting"
+        },
+        {
+          "word": "lion",
+          "definition": "A large wild cat"
+        },
+        {
+          "word": "log",
+          "definition": "A thick piece of wood"
+        },
+        {
+          "letter": "L",
+          "word": "leg",
+          "definition": "The part of the body used for standing and walking"
+        },
+        {
+          "letter": "L",
+          "word": "leaf",
+          "definition": "The flat green part of a plant"
+        }
+      ]
+    },
+    {
+      "letter": "A",
+      "words": [
+        {
+          "letter": "A",
+          "word": "ant",
+          "definition": "A small insect that lives in groups"
+        },
+        {
+          "letter": "A",
+          "word": "apple",
+          "definition": "A round fruit that is usually red or green"
+        },
+        {
+          "letter": "A",
+          "word": "art",
+          "definition": "Something made with skill and creativity"
+        },
+        {
+          "letter": "A",
+          "word": "act",
+          "definition": "To do something"
+        },
+        {
+          "letter": "A",
+          "word": "arm",
+          "definition": "The part of the body from the shoulder to the hand"
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "words": [
+        {
+          "letter": "S",
+          "word": "sun",
+          "definition": "The bright star that gives light and heat"
+        },
+        {
+          "letter": "S",
+          "word": "star",
+          "definition": "A bright object in the night sky"
+        },
+        {
+          "letter": "S",
+          "word": "sing",
+          "definition": "To make musical sounds with the voice"
+        },
+        {
+          "letter": "S",
+          "word": "glass",
+          "definition": "A hard, transparent material"
+        }
+      ]
+    },
+    {
+      "letter": "S",
+      "words": [
+        {
+          "letter": "S",
+          "word": "smile",
+          "definition": "To show happiness with the mouth"
+        },
+        {
+          "letter": "S",
+          "word": "sand",
+          "definition": "Tiny grains of rock found on beaches and deserts"
+        },
+        {
+          "letter": "S",
+          "word": "sock",
+          "definition": "A piece of clothing worn on the foot"
+        }
+      ]
+    }
+  ]
+}
