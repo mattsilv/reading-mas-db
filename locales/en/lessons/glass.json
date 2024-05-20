@@ -8,53 +8,108 @@
       },
       {
         "letter": "G",
-        "word": "lag",
-        "definition": "To fall behind"
+        "word": "girl",
+        "definition": "A female child"
+      },
+      {
+        "letter": "G",
+        "word": "goat",
+        "definition": "An animal that eats grass"
       },
       {
         "letter": "L",
-        "word": "lass",
-        "definition": "A young girl"
+        "word": "lap",
+        "definition": "The top part of the leg when sitting"
       },
       {
         "letter": "L",
-        "word": "lag",
-        "definition": "To fall behind"
+        "word": "lion",
+        "definition": "A large wild cat"
       },
       {
         "letter": "L",
-        "word": "gal",
-        "definition": "A girl"
+        "word": "log",
+        "definition": "A thick piece of wood"
       },
       {
         "letter": "A",
-        "word": "gas",
-        "definition": "A state of matter like air"
+        "word": "ant",
+        "definition": "A small insect that lives in groups"
       },
       {
         "letter": "A",
-        "word": "lass",
-        "definition": "A young girl"
+        "word": "apple",
+        "definition": "A round fruit that is usually red or green"
+      },
+      {
+        "letter": "A",
+        "word": "art",
+        "definition": "Something made with skill and creativity"
       },
       {
         "letter": "S",
-        "word": "lass",
-        "definition": "A young girl"
+        "word": "sun",
+        "definition": "The bright star that gives light and heat"
       },
       {
         "letter": "S",
-        "word": "gas",
-        "definition": "A state of matter like air"
+        "word": "star",
+        "definition": "A bright object in the night sky"
       },
       {
         "letter": "S",
-        "word": "slag",
-        "definition": "The waste left after the melting of metal"
+        "word": "sing",
+        "definition": "To make musical sounds with the voice"
       },
       {
         "letter": "S",
         "word": "glass",
         "definition": "A hard, transparent material"
+      },
+      {
+        "letter": "S",
+        "word": "smile",
+        "definition": "To show happiness with the mouth"
+      },
+      {
+        "letter": "S",
+        "word": "sand",
+        "definition": "Tiny grains of rock found on beaches and deserts"
+      },
+      {
+        "letter": "S",
+        "word": "sock",
+        "definition": "A piece of clothing worn on the foot"
+      },
+      {
+        "letter": "A",
+        "word": "act",
+        "definition": "To do something"
+      },
+      {
+        "letter": "A",
+        "word": "arm",
+        "definition": "The part of the body from the shoulder to the hand"
+      },
+      {
+        "letter": "L",
+        "word": "leg",
+        "definition": "The part of the body used for standing and walking"
+      },
+      {
+        "letter": "L",
+        "word": "leaf",
+        "definition": "The flat green part of a plant"
+      },
+      {
+        "letter": "G",
+        "word": "game",
+        "definition": "An activity played for fun"
+      },
+      {
+        "letter": "G",
+        "word": "gift",
+        "definition": "Something given to someone"
       }
     ]
   }
