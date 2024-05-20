@@ -1,7 +1,7 @@
 {
     "locales": ["en", "es", "fr"],
     "lessons": {
-      "en": ["stamp"],
+      "en": ["stamp", "train", "chair", "glass"],
       "es": ["campos"],
       "fr": ["jardin"]
     }
