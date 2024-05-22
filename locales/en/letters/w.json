@@ -1,1 +1,81 @@
-{}
+{
+    "lesson": "W",
+    "words": [
+        {
+            "word": "wax",
+            "definition": "A solid substance made from fat or oil"
+        },
+        {
+            "word": "web",
+            "definition": "A network made by spiders"
+        },
+        {
+            "word": "wig",
+            "definition": "A covering for the head made of artificial hair"
+        },
+        {
+            "word": "win",
+            "definition": "To achieve victory"
+        },
+        {
+            "word": "wet",
+            "definition": "Covered with water or another liquid"
+        },
+        {
+            "word": "wow",
+            "definition": "An expression of amazement"
+        },
+        {
+            "word": "war",
+            "definition": "A conflict between groups"
+        },
+        {
+            "word": "wag",
+            "definition": "To move something back and forth"
+        },
+        {
+            "word": "wit",
+            "definition": "The ability to use words in a clever way"
+        },
+        {
+            "word": "way",
+            "definition": "A method or manner of doing something"
+        },
+        {
+            "word": "was",
+            "definition": "Past tense of is"
+        },
+        {
+            "word": "won",
+            "definition": "Past tense of win"
+        },
+        {
+            "word": "wet",
+            "definition": "Damp or moist"
+        },
+        {
+            "word": "wig",
+            "definition": "A head covering made from synthetic hair"
+        },
+        {
+            "word": "wax",
+            "definition": "A substance used for candles"
+        },
+        {
+            "word": "web",
+            "definition": "A network made by spiders"
+        },
+        {
+            "word": "win",
+            "definition": "To achieve first place"
+        },
+        {
+            "word": "wow",
+            "definition": "To impress greatly"
+        },
+        {
+            "word": "way",
+            "definition": "A path or route"
+        }
+    ]
+}

@@ -1,1 +1,81 @@
-{}
+{
+    "lesson": "P",
+    "words": [
+        {
+            "word": "pan",
+            "definition": "A container used for cooking"
+        },
+        {
+            "word": "pet",
+            "definition": "An animal kept for companionship"
+        },
+        {
+            "word": "pig",
+            "definition": "A farm animal that oinks"
+        },
+        {
+            "word": "pen",
+            "definition": "A tool used for writing"
+        },
+        {
+            "word": "pot",
+            "definition": "A container used for cooking"
+        },
+        {
+            "word": "pit",
+            "definition": "A large hole in the ground"
+        },
+        {
+            "word": "pop",
+            "definition": "To make a sudden sound"
+        },
+        {
+            "word": "put",
+            "definition": "To place something somewhere"
+        },
+        {
+            "word": "pat",
+            "definition": "To tap gently with the hand"
+        },
+        {
+            "word": "pan",
+            "definition": "A cooking vessel"
+        },
+        {
+            "word": "pit",
+            "definition": "A stone inside a fruit"
+        },
+        {
+            "word": "pet",
+            "definition": "An animal companion"
+        },
+        {
+            "word": "pig",
+            "definition": "A pink farm animal"
+        },
+        {
+            "word": "pen",
+            "definition": "A writing instrument"
+        },
+        {
+            "word": "pop",
+            "definition": "A small explosion sound"
+        },
+        {
+            "word": "pot",
+            "definition": "A container for cooking"
+        },
+        {
+            "word": "pat",
+            "definition": "A gentle touch"
+        },
+        {
+            "word": "put",
+            "definition": "To place"
+        },
+        {
+            "word": "pad",
+            "definition": "A cushion or soft surface"
+        }
+    ]
+}

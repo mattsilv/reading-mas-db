@@ -1,1 +1,81 @@
-{}
+{
+    "lesson": "N",
+    "words": [
+        {
+            "word": "nap",
+            "definition": "A short sleep"
+        },
+        {
+            "word": "net",
+            "definition": "A mesh used to catch or hold things"
+        },
+        {
+            "word": "nod",
+            "definition": "To move your head up and down"
+        },
+        {
+            "word": "nut",
+            "definition": "A hard-shelled seed"
+        },
+        {
+            "word": "new",
+            "definition": "Not old or used"
+        },
+        {
+            "word": "nib",
+            "definition": "The pointed part of a pen"
+        },
+        {
+            "word": "nag",
+            "definition": "To annoy by complaining"
+        },
+        {
+            "word": "nun",
+            "definition": "A woman who is a member of a religious order"
+        },
+        {
+            "word": "net",
+            "definition": "A tool for catching things"
+        },
+        {
+            "word": "nod",
+            "definition": "To move the head to show agreement"
+        },
+        {
+            "word": "nap",
+            "definition": "A brief sleep"
+        },
+        {
+            "word": "nut",
+            "definition": "A fruit with a hard shell"
+        },
+        {
+            "word": "net",
+            "definition": "A device for catching fish"
+        },
+        {
+            "word": "new",
+            "definition": "Recently made or obtained"
+        },
+        {
+            "word": "nib",
+            "definition": "The pointed end of a pen"
+        },
+        {
+            "word": "nag",
+            "definition": "To scold or complain"
+        },
+        {
+            "word": "nun",
+            "definition": "A religious woman"
+        },
+        {
+            "word": "nap",
+            "definition": "A short rest"
+        },
+        {
+            "word": "nut",
+            "definition": "An edible seed"
+        }
+    ]
+}

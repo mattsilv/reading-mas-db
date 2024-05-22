@@ -1,1 +1,81 @@
-{}
+{
+    "lesson": "O",
+    "words": [
+        {
+            "word": "owl",
+            "definition": "A bird that is active at night"
+        },
+        {
+            "word": "oak",
+            "definition": "A type of tree"
+        },
+        {
+            "word": "odd",
+            "definition": "Strange or unusual"
+        },
+        {
+            "word": "oil",
+            "definition": "A liquid used for cooking or fuel"
+        },
+        {
+            "word": "one",
+            "definition": "The number after zero"
+        },
+        {
+            "word": "out",
+            "definition": "Away from the inside"
+        },
+        {
+            "word": "own",
+            "definition": "To possess something"
+        },
+        {
+            "word": "oar",
+            "definition": "A tool used for rowing a boat"
+        },
+        {
+            "word": "old",
+            "definition": "Having lived for a long time"
+        },
+        {
+            "word": "off",
+            "definition": "Not on; separated"
+        },
+        {
+            "word": "oak",
+            "definition": "A type of large tree"
+        },
+        {
+            "word": "owl",
+            "definition": "A nocturnal bird"
+        },
+        {
+            "word": "oil",
+            "definition": "A slippery liquid"
+        },
+        {
+            "word": "one",
+            "definition": "The first number"
+        },
+        {
+            "word": "odd",
+            "definition": "Not usual"
+        },
+        {
+            "word": "out",
+            "definition": "Away from a place"
+        },
+        {
+            "word": "own",
+            "definition": "To have something"
+        },
+        {
+            "word": "off",
+            "definition": "Not operating"
+        },
+        {
+            "word": "oar",
+            "definition": "A paddle for rowing"
+        }
+    ]
+}

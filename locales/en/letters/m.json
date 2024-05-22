@@ -1,1 +1,85 @@
-{}
+{
+    "lesson": "M",
+    "words": [
+        {
+            "word": "map",
+            "definition": "A drawing of an area showing roads and landmarks"
+        },
+        {
+            "word": "man",
+            "definition": "An adult male human"
+        },
+        {
+            "word": "mat",
+            "definition": "A piece of material for covering part of a floor"
+        },
+        {
+            "word": "mad",
+            "definition": "Very angry"
+        },
+        {
+            "word": "mud",
+            "definition": "Wet earth"
+        },
+        {
+            "word": "mix",
+            "definition": "To combine two or more things"
+        },
+        {
+            "word": "mom",
+            "definition": "A mother"
+        },
+        {
+            "word": "mop",
+            "definition": "A tool for cleaning floors"
+        },
+        {
+            "word": "mob",
+            "definition": "A large group of people"
+        },
+        {
+            "word": "mid",
+            "definition": "In the middle of"
+        },
+        {
+            "word": "men",
+            "definition": "Plural of man"
+        },
+        {
+            "word": "met",
+            "definition": "Past tense of meet"
+        },
+        {
+            "word": "mug",
+            "definition": "A large cup"
+        },
+        {
+            "word": "mow",
+            "definition": "To cut grass"
+        },
+        {
+            "word": "mud",
+            "definition": "Wet soil"
+        },
+        {
+            "word": "mad",
+            "definition": "Angry"
+        },
+        {
+            "word": "man",
+            "definition": "An adult human male"
+        },
+        {
+            "word": "map",
+            "definition": "A drawing of a place"
+        },
+        {
+            "word": "mat",
+            "definition": "A small rug"
+        },
+        {
+            "word": "mix",
+            "definition": "To combine"
+        }
+    ]
+}

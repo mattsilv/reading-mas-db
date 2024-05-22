@@ -1,1 +1,81 @@
-{}
+{
+    "lesson": "X",
+    "words": [
+        {
+            "word": "box",
+            "definition": "A container with flat sides"
+        },
+        {
+            "word": "fox",
+            "definition": "A wild animal with a bushy tail"
+        },
+        {
+            "word": "mix",
+            "definition": "To combine two or more things"
+        },
+        {
+            "word": "wax",
+            "definition": "A solid substance made from fat or oil"
+        },
+        {
+            "word": "tax",
+            "definition": "A required payment to the government"
+        },
+        {
+            "word": "six",
+            "definition": "The number after five"
+        },
+        {
+            "word": "fix",
+            "definition": "To repair something"
+        },
+        {
+            "word": "hex",
+            "definition": "A spell or charm"
+        },
+        {
+            "word": "mix",
+            "definition": "To stir together"
+        },
+        {
+            "word": "fax",
+            "definition": "A machine that sends documents"
+        },
+        {
+            "word": "box",
+            "definition": "A rectangular container"
+        },
+        {
+            "word": "fox",
+            "definition": "A clever wild animal"
+        },
+        {
+            "word": "tax",
+            "definition": "A fee paid to the government"
+        },
+        {
+            "word": "six",
+            "definition": "The number 6"
+        },
+        {
+            "word": "fix",
+            "definition": "To mend or repair"
+        },
+        {
+            "word": "hex",
+            "definition": "A curse or spell"
+        },
+        {
+            "word": "wax",
+            "definition": "A material used for candles"
+        },
+        {
+            "word": "mix",
+            "definition": "To blend together"
+        },
+        {
+            "word": "box",
+            "definition": "A square container"
+        }
+    ]
+}

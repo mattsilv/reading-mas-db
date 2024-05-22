@@ -1,1 +1,85 @@
-{}
+{
+    "lesson": "R",
+    "words": [
+        {
+            "word": "rat",
+            "definition": "A small rodent"
+        },
+        {
+            "word": "run",
+            "definition": "To move quickly on foot"
+        },
+        {
+            "word": "red",
+            "definition": "The color of an apple or stop sign"
+        },
+        {
+            "word": "rug",
+            "definition": "A piece of thick fabric used to cover a floor"
+        },
+        {
+            "word": "row",
+            "definition": "A line of things or people"
+        },
+        {
+            "word": "ram",
+            "definition": "A male sheep"
+        },
+        {
+            "word": "rib",
+            "definition": "One of the bones in the chest"
+        },
+        {
+            "word": "rob",
+            "definition": "To take something by force"
+        },
+        {
+            "word": "rag",
+            "definition": "A piece of old cloth"
+        },
+        {
+            "word": "rim",
+            "definition": "The outer edge of something"
+        },
+        {
+            "word": "rod",
+            "definition": "A thin straight bar"
+        },
+        {
+            "word": "rip",
+            "definition": "To tear something quickly"
+        },
+        {
+            "word": "row",
+            "definition": "To move a boat with oars"
+        },
+        {
+            "word": "rug",
+            "definition": "A small carpet"
+        },
+        {
+            "word": "ram",
+            "definition": "An adult male sheep"
+        },
+        {
+            "word": "rat",
+            "definition": "A rodent similar to a mouse"
+        },
+        {
+            "word": "rob",
+            "definition": "To steal from someone"
+        },
+        {
+            "word": "rim",
+            "definition": "The border or edge of something"
+        },
+        {
+            "word": "rip",
+            "definition": "To tear or cut"
+        },
+        {
+            "word": "rib",
+            "definition": "A bone in the chest"
+        }
+    ]
+}
