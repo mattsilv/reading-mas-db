@@ -42,14 +42,6 @@
             "definition": "A barrier built to hold back water"
         },
         {
-            "word": "dip",
-            "definition": "To put something into a liquid"
-        },
-        {
-            "word": "dot",
-            "definition": "A small spot"
-        },
-        {
             "word": "dew",
             "definition": "Tiny drops of water on grass in the morning"
         },
@@ -58,28 +50,32 @@
             "definition": "Two people or things"
         },
         {
-            "word": "dim",
-            "definition": "Not well lit"
-        },
-        {
             "word": "dye",
             "definition": "A substance used to change the color of something"
         },
         {
-            "word": "dun",
-            "definition": "A dull grayish-brown color"
+            "word": "doll",
+            "definition": "A small toy that looks like a person"
         },
         {
-            "word": "dot",
-            "definition": "A very small round mark"
+            "word": "desk",
+            "definition": "A piece of furniture for writing or working"
         },
         {
-            "word": "dip",
-            "definition": "To immerse briefly into a liquid"
+            "word": "dish",
+            "definition": "A container for serving food"
         },
         {
-            "word": "dig",
-            "definition": "To break up and move earth"
+            "word": "door",
+            "definition": "A movable barrier for opening and closing a room"
+        },
+        {
+            "word": "duck",
+            "definition": "A water bird with webbed feet"
+        },
+        {
+            "word": "dust",
+            "definition": "Tiny particles of dirt"
         }
     ]
 }

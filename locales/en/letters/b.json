@@ -10,10 +10,6 @@
             "definition": "A container used to carry things"
         },
         {
-            "word": "bat",
-            "definition": "A flying mammal"
-        },
-        {
             "word": "bed",
             "definition": "A piece of furniture for sleeping"
         },
@@ -46,10 +42,6 @@
             "definition": "A container for waste"
         },
         {
-            "word": "bat",
-            "definition": "A stick used in sports"
-        },
-        {
             "word": "big",
             "definition": "Large in size"
         },
@@ -80,6 +72,30 @@
         {
             "word": "bus",
             "definition": "A vehicle for public transport"
+        },
+        {
+            "word": "bike",
+            "definition": "A vehicle with two wheels powered by pedals"
+        },
+        {
+            "word": "book",
+            "definition": "A set of written pages bound together"
+        },
+        {
+            "word": "boat",
+            "definition": "A vehicle for traveling on water"
+        },
+        {
+            "word": "bell",
+            "definition": "A hollow object that makes a sound when struck"
+        },
+        {
+            "word": "brick",
+            "definition": "A small block used to build walls"
+        },
+        {
+            "word": "bridge",
+            "definition": "A structure for crossing over something"
         }
     ]
 }
