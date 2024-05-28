@@ -3,83 +3,79 @@
     "words": [
         {
             "word": "ant",
-            "definition": "A small insect that lives in a colony"
+            "definition": "A small insect that lives in a group"
         },
         {
-            "word": "ask",
-            "definition": "To say something to get an answer or help"
+            "word": "apple",
+            "definition": "A fruit that is red or green"
+        },
+        {
+            "word": "arm",
+            "definition": "The part of your body from shoulder to hand"
         },
         {
             "word": "act",
             "definition": "To do something"
         },
         {
-            "word": "art",
-            "definition": "Something made with skill and creativity"
-        },
-        {
-            "word": "ape",
-            "definition": "A large primate that has no tail"
-        },
-        {
-            "word": "arm",
-            "definition": "The limb from shoulder to hand"
-        },
-        {
-            "word": "ash",
-            "definition": "The powdery residue left after the burning of a substance"
+            "word": "ask",
+            "definition": "To say something to get an answer or help"
         },
         {
             "word": "add",
-            "definition": "To combine two or more numbers"
+            "definition": "To put numbers together"
         },
         {
-            "word": "ale",
-            "definition": "A type of beer"
-        },
-        {
-            "word": "aim",
-            "definition": "To point or direct at a target"
+            "word": "all",
+            "definition": "Every one"
         },
         {
             "word": "air",
             "definition": "The invisible gas we breathe"
         },
         {
-            "word": "age",
-            "definition": "The number of years someone has lived"
-        },
-        {
-            "word": "ate",
-            "definition": "The past tense of eat"
+            "word": "aim",
+            "definition": "To point at something"
         },
         {
             "word": "arc",
             "definition": "A curved shape"
         },
         {
+            "word": "ape",
+            "definition": "A large animal like a monkey"
+        },
+        {
+            "word": "art",
+            "definition": "Drawing, painting, or making things"
+        },
+        {
+            "word": "age",
+            "definition": "How many years someone has lived"
+        },
+        {
+            "word": "ash",
+            "definition": "The soft gray stuff left after something burns"
+        },
+        {
             "word": "axe",
-            "definition": "A tool used for chopping wood"
-        },
-        {
-            "word": "aid",
-            "definition": "Help or support"
-        },
-        {
-            "word": "apt",
-            "definition": "Having a tendency to do something"
-        },
-        {
-            "word": "all",
-            "definition": "Every one of"
-        },
-        {
-            "word": "any",
-            "definition": "One or some of a thing"
+            "definition": "A tool used to chop wood"
         },
         {
             "word": "and",
-            "definition": "Used to connect words"
+            "definition": "A word that connects other words"
+        },
+        {
+            "word": "aid",
+            "definition": "To help or support"
+        },
+        {
+            "word": "any",
+            "definition": "One or some"
+        },
+        {
+            "word": "apt",
+            "definition": "Likely to do something"
         }
     ]
 }
