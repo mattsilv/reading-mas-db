@@ -3,79 +3,51 @@
     "words": [
         {
             "word": "jam",
-            "definition": "A sweet spread made from fruit"
+            "definition": "A sweet spread made from fruit and sugar"
         },
         {
             "word": "jet",
             "definition": "A fast airplane"
         },
         {
-            "word": "job",
-            "definition": "Work that someone does"
+            "word": "jug",
+            "definition": "A container for liquids with a handle"
         },
         {
-            "word": "jog",
-            "definition": "To run at a slow pace"
+            "word": "jar",
+            "definition": "A glass container with a lid"
+        },
+        {
+            "word": "jump",
+            "definition": "To push yourself off the ground with your legs"
         },
         {
             "word": "joy",
             "definition": "A feeling of great happiness"
         },
         {
-            "word": "jug",
-            "definition": "A large container for liquids"
+            "word": "jelly",
+            "definition": "A soft, sweet food made from fruit juice and sugar"
         },
         {
-            "word": "jaw",
-            "definition": "The lower part of the face that moves when you open your mouth"
+            "word": "jacket",
+            "definition": "A piece of clothing worn on the upper body"
         },
         {
-            "word": "jot",
-            "definition": "To write something quickly"
+            "word": "jeep",
+            "definition": "A small, strong vehicle for driving over rough ground"
         },
         {
-            "word": "jab",
-            "definition": "To poke someone or something quickly"
+            "word": "jungle",
+            "definition": "A dense forest with many plants and animals"
         },
         {
-            "word": "jet",
-            "definition": "A stream of liquid or gas"
+            "word": "jewel",
+            "definition": "A precious stone used in jewelry"
         },
         {
-            "word": "joy",
-            "definition": "A great feeling of happiness"
-        },
-        {
-            "word": "jam",
-            "definition": "Fruit preserve"
-        },
-        {
-            "word": "jaw",
-            "definition": "Part of the mouth"
-        },
-        {
-            "word": "jog",
-            "definition": "To run slowly"
-        },
-        {
-            "word": "jug",
-            "definition": "A pitcher for liquids"
-        },
-        {
-            "word": "job",
-            "definition": "Work someone does"
-        },
-        {
-            "word": "jab",
-            "definition": "To poke quickly"
-        },
-        {
-            "word": "jot",
-            "definition": "To write briefly"
-        },
-        {
-            "word": "jet",
-            "definition": "A plane that flies fast"
+            "word": "juice",
+            "definition": "A drink made from fruit or vegetables"
         }
     ]
 }

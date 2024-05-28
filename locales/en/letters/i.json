@@ -6,76 +6,48 @@
             "definition": "Frozen water"
         },
         {
+            "word": "igloo",
+            "definition": "A round house made of snow or ice"
+        },
+        {
+            "word": "insect",
+            "definition": "A small animal with six legs"
+        },
+        {
+            "word": "inch",
+            "definition": "A small unit of length"
+        },
+        {
             "word": "ink",
-            "definition": "A colored liquid used for writing"
+            "definition": "A colored liquid used for writing or drawing"
         },
         {
-            "word": "ill",
-            "definition": "Not feeling well"
+            "word": "iron",
+            "definition": "A strong, hard metal"
         },
         {
-            "word": "inn",
-            "definition": "A small hotel"
-        },
-        {
-            "word": "ivy",
-            "definition": "A type of climbing plant"
-        },
-        {
-            "word": "imp",
-            "definition": "A small mischievous creature"
-        },
-        {
-            "word": "ion",
-            "definition": "An atom or molecule with an electric charge"
-        },
-        {
-            "word": "its",
-            "definition": "Belonging to it"
-        },
-        {
-            "word": "icy",
-            "definition": "Covered with ice"
-        },
-        {
-            "word": "imp",
-            "definition": "A small demon or mischievous child"
-        },
-        {
-            "word": "ill",
-            "definition": "Sick or unwell"
+            "word": "island",
+            "definition": "A piece of land surrounded by water"
         },
         {
             "word": "ivy",
             "definition": "A plant that climbs walls"
         },
         {
-            "word": "ink",
-            "definition": "Liquid for writing"
+            "word": "igloo",
+            "definition": "A house made of snow"
+        },
+        {
+            "word": "idea",
+            "definition": "A thought or plan"
         },
         {
             "word": "ice",
-            "definition": "Water in solid form"
+            "definition": "Frozen water"
         },
         {
-            "word": "inn",
-            "definition": "A place to stay overnight"
-        },
-        {
-            "word": "ion",
-            "definition": "A charged particle"
-        },
-        {
-            "word": "icy",
-            "definition": "Very cold"
-        },
-        {
-            "word": "its",
-            "definition": "Belonging to it"
-        },
-        {
-            "word": "ire",
-            "definition": "Anger or rage"
+            "word": "itch",
+            "definition": "A feeling on the skin that makes you want to scratch"
         }
     ]
 }

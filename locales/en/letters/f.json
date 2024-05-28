@@ -3,79 +3,51 @@
     "words": [
         {
             "word": "fan",
-            "definition": "A device for creating a current of air"
+            "definition": "A machine that moves air to cool you down"
         },
         {
-            "word": "fat",
-            "definition": "Having a lot of body tissue"
+            "word": "fish",
+            "definition": "An animal that lives in water and has fins"
         },
         {
-            "word": "fig",
-            "definition": "A type of sweet fruit"
+            "word": "frog",
+            "definition": "A small animal that hops and lives near water"
         },
         {
-            "word": "fin",
-            "definition": "A thin part on a fish that helps it swim"
-        },
-        {
-            "word": "fit",
-            "definition": "In good health"
-        },
-        {
-            "word": "fog",
-            "definition": "Thick cloud close to the ground"
+            "word": "fun",
+            "definition": "Enjoyable or amusing"
         },
         {
             "word": "fox",
             "definition": "A wild animal with a bushy tail"
         },
         {
-            "word": "fun",
-            "definition": "Enjoyment or amusement"
+            "word": "foot",
+            "definition": "The part of your body you stand on"
         },
         {
-            "word": "fan",
-            "definition": "A person who likes something very much"
-        },
-        {
-            "word": "far",
-            "definition": "A long distance away"
-        },
-        {
-            "word": "fed",
-            "definition": "Past tense of feed"
-        },
-        {
-            "word": "fix",
-            "definition": "To repair something"
-        },
-        {
-            "word": "fly",
-            "definition": "To move through the air"
-        },
-        {
-            "word": "fog",
-            "definition": "A thick mist"
+            "word": "fire",
+            "definition": "Hot flames that burn"
         },
         {
             "word": "fig",
-            "definition": "A fruit with many small seeds"
+            "definition": "A sweet fruit with many seeds"
         },
         {
             "word": "fin",
-            "definition": "Part of a fish"
+            "definition": "A fish's body part that helps it swim"
         },
         {
-            "word": "fit",
-            "definition": "Healthy and strong"
+            "word": "farm",
+            "definition": "A place where animals are raised and crops are grown"
         },
         {
-            "word": "fun",
-            "definition": "Something that is enjoyable"
+            "word": "fork",
+            "definition": "A tool with points used to eat food"
         },
         {
-            "word": "fur",
-            "definition": "The hair on an animal"
+            "word": "face",
+            "definition": "The front part of your head with eyes, nose, and mouth"
         }
     ]
 }

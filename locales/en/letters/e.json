@@ -3,79 +3,51 @@
     "words": [
         {
             "word": "egg",
-            "definition": "A round object laid by birds, often eaten as food"
+            "definition": "A round object from which a baby bird is born"
         },
         {
             "word": "ear",
-            "definition": "The part of the body used for hearing"
+            "definition": "The part of your body you hear with"
         },
         {
             "word": "eat",
-            "definition": "To put food in your mouth and swallow it"
+            "definition": "To put food in your mouth and swallow"
         },
         {
-            "word": "end",
-            "definition": "The final part of something"
+            "word": "elephant",
+            "definition": "A large animal with a trunk"
         },
         {
             "word": "elk",
-            "definition": "A large type of deer"
+            "definition": "A large deer with big antlers"
         },
         {
-            "word": "elf",
-            "definition": "A small, mythical creature"
+            "word": "edge",
+            "definition": "The outer part of something"
         },
         {
             "word": "eel",
             "definition": "A long, snake-like fish"
         },
         {
-            "word": "era",
-            "definition": "A long and distinct period of history"
-        },
-        {
-            "word": "emu",
-            "definition": "A large, flightless bird"
-        },
-        {
-            "word": "ebb",
-            "definition": "The movement of the tide out to sea"
-        },
-        {
-            "word": "eve",
-            "definition": "The evening or day before a special day"
-        },
-        {
-            "word": "eye",
-            "definition": "The organ that lets us see"
-        },
-        {
-            "word": "end",
-            "definition": "To come to a stop"
-        },
-        {
-            "word": "ebb",
-            "definition": "To recede or go back"
-        },
-        {
-            "word": "elk",
-            "definition": "A large deer found in North America"
-        },
-        {
-            "word": "egg",
-            "definition": "A food product from birds"
-        },
-        {
             "word": "elf",
-            "definition": "A magical creature in stories"
+            "definition": "A small magical creature"
         },
         {
-            "word": "eel",
-            "definition": "A fish that looks like a snake"
+            "word": "enter",
+            "definition": "To go into a place"
         },
         {
-            "word": "era",
-            "definition": "A long period of time"
+            "word": "exit",
+            "definition": "A way out of a place"
+        },
+        {
+            "word": "echo",
+            "definition": "A sound that repeats when it bounces off something"
+        },
+        {
+            "word": "earth",
+            "definition": "The planet we live on"
         }
     ]
 }
